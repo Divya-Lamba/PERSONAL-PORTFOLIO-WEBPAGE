@@ -20,4 +20,6 @@ This task helped me learn basic web design and front-end development.
 
 output ::
 
+<img width="1913" height="1092" alt="Image" src="https://github.com/user-attachments/assets/8c2336f1-6b81-4c30-9000-e69385c75da1" />
+
 
